@@ -1,3 +1,3 @@
-#### Sean O'Mara
+### Hello 👋
 
-##### Computer Science Student, Athlete
+#### Computer Science Student, Athlete

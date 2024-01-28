@@ -4,9 +4,9 @@ I'm a Software Engineer Intern, Computer Science Student, and Student-Athlete co
 
 I have an interest in math and AI. I enjoy solving problems with tech.
 
-I parimarily use Python, C++, C, JavaScript, and Django, but I have experience with a wide range of technologies.
+I primarily use Python, C++, C, JavaScript, and Django, but I have experience with a wide range of technologies.
 
-I am currently learning computer networks, operating systems, graph theory, and full-stack development.
+I am currently learning computer networks, operating systems, graph theory, and full-stack software engineering.
 
 While learning graph theory, I am developing a ![graph theory library](https://github.com/smomara/graphent/).
 

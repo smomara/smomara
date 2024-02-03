@@ -1,14 +1,12 @@
 # Hi, I'm Sean
 
-I'm a Software Engineer Intern, Computer Science Student, and Student-Athlete constantly learning and building.
+I'm a Student Researcher, Software Engineer Intern, Computer Science Student, and Student-Athlete constantly learning and building.
 
-I have an interest in math and AI. I enjoy solving problems with tech.
-
-I primarily use Python, C++, C, JavaScript, and Django, but I have experience with a wide range of technologies.
+I primarily use Python, C++, C, and JavaScript, but I have experience with a wide range of technologies.
 
 I am currently learning computer networks, operating systems, graph theory, and full-stack software engineering.
 
-While learning graph theory, I am developing a ![graph theory library](https://github.com/smomara/graphent/).
+While researching graph theory, I am developing a ![graph theory library](https://github.com/smomara/graphent/).
 
 <!--
 **smomara/smomara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

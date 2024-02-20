@@ -6,8 +6,6 @@ I primarily use Python, C++, C, and JavaScript, but I have experience with a wid
 
 I am currently learning computer networks, operating systems, graph theory, and full-stack software engineering.
 
-While researching graph theory, I am developing a ![graph theory library](https://github.com/smomara/graphent/).
-
 <!--
 **smomara/smomara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 I'm a Student Researcher, Software Engineer Intern, Computer Science Student, and Student-Athlete constantly learning and building.
 
-I primarily use Python, C++, C, and JavaScript, but I have experience with a wide range of technologies.
+I primarily use Python, C++, and C, but I have experience with a wide range of technologies.
 
 I am currently learning computer networks, operating systems, graph theory, and full-stack software engineering.
 

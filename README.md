@@ -1,3 +1,7 @@
+Hi, I'm Sean
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.25; background: url('https://raw.githubusercontent.com/smomara/smomara/main/mountains.jpg');]{x0000}$}
+* an undergraduate student graduating in 2025, studying computer science and math
+
+* a software developer who enjoys tackling difficult problems
+
+* interested in pursuing a career in a field like systems programming or distributed systems
